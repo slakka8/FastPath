@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "34565269743",
+    "firebase_url": "https://fastpath-cf46c.firebaseio.com",
+    "project_id": "fastpath-cf46c",
+    "storage_bucket": "fastpath-cf46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34565269743:android:d38e18d039c4e51c",
+        "android_client_info": {
+          "package_name": "com.example.dimple.fastpath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34565269743-ro4q9em5b7u90i0jm59mc7ha0dcceq7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dimple.fastpath",
+            "certificate_hash": "8e24e4f3c198017dc92591b91bd801f081f2694b"
+          }
+        },
+        {
+          "client_id": "34565269743-cq7rnbrtmuii8ufge79u3tebdgrlte51.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "34565269743-cq7rnbrtmuii8ufge79u3tebdgrlte51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNdpY00gu69ih6Ile15DRbZ6hpY9Z7Uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34565269743-cq7rnbrtmuii8ufge79u3tebdgrlte51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

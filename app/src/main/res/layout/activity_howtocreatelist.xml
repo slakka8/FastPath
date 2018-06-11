@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Howtocreatelist"
+    android:background="@drawable/gradient">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FastPath"
+        android:textSize="45dp"
+        android:paddingTop="20dp"
+        android:textColor="#e76d0e"
+        android:textStyle="normal"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        />
+
+
+
+    <Button
+        android:id="@+id/fromcamera"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:text="CAMERA"
+        android:textColor="@color/darkOrange"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/buttoncorners"/>
+
+    <Button
+        android:id="@+id/fromdatabase"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:text="DATABASE"
+        android:textColor="@color/darkOrange"
+        android:background="@drawable/buttoncorners"/>
+
+
+</LinearLayout>
+
+
